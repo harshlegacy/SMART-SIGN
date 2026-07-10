@@ -1,0 +1,39 @@
+{
+  "school": "CRPF Public School, Rohini",
+  "class": "12D",
+  "open_browser": "edge",
+  "screenshot_interval_seconds": 10,
+
+  "api_keys": [
+    "PASTE_YOUR_GEMINI_KEY_1_HERE",
+    "PASTE_YOUR_GEMINI_KEY_2_HERE",
+    "PASTE_YOUR_GEMINI_KEY_3_HERE"
+  ],
+
+  "teachers": {
+    "Physics":            "Balesh Vashisth",
+    "Chemistry":          "Arvind Aggarwal",
+    "Maths":              "Amit Bajaj",
+    "English":            "Khyati Jain",
+    "Physical Education": "Jitender Kumar"
+  },
+
+  "subjects": ["Physics","Chemistry","Maths","English","Physical Education"],
+
+  "ignore_keywords": [
+    "library","sports","ut","ct","club","work education",
+    "tiffin","lunch","break","assembly","prayer"
+  ],
+
+  "periods": [
+    {"name": "Period 0", "start": "07:45", "end": "08:25"},
+    {"name": "Period 1", "start": "08:25", "end": "09:00"},
+    {"name": "Period 2", "start": "09:00", "end": "09:35"},
+    {"name": "Period 3", "start": "09:35", "end": "10:10"},
+    {"name": "Period 4", "start": "10:10", "end": "10:45"},
+    {"name": "Period 5", "start": "11:05", "end": "11:45"},
+    {"name": "Period 6", "start": "11:45", "end": "12:20"},
+    {"name": "Period 7", "start": "12:20", "end": "12:55"},
+    {"name": "Period 8", "start": "12:55", "end": "13:30"}
+  ]
+}
