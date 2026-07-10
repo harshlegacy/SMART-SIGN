@@ -1,6 +1,36 @@
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  SmartSign — by Harsh Manglam
-  CRPF Public School, Rohini | Class 12D
+# 🖊️ SmartSign — Smart Class Record Keeper
+
+A localized digital logging ecosystem designed for interactive smartboards to streamline classroom management workflows at **CRPF Public School**. 
+
+Engineered as an AI-native solution using Claude, SmartSign eliminates the need for physical paper logs by digitizing teacher signatures, session records, and topic registration directly on the smartboard itself.
+
+---
+
+## 🌟 Core Features
+
+* **🖥️ AI Smart Board Screen Reader**  
+  Automates data entry by scanning active smartboard content to read PowerPoint presentation materials, YouTube links, Word files, and digital blackboard notes.
+* **✍️ Live Digitized Signatures**  
+  Enables teachers to securely log their signatures directly onto the smartboard canvas interface using a mouse pointer or finger touch inputs.
+* **🔒 Automated Row Locking**  
+  Secures individual class data entry pipelines through automated security locks right after a teacher completes their signature.
+* **💾 Local Backup Ecosystem**  
+  Ensures zero data loss using local database state orchestration capable of instantaneous JSON and PDF data structure exports.
+
+---
+
+## 🛠️ Technical Architecture
+
+* **UI/UX Layer:** Minimalist, fluid interface engineered with responsive grid elements, custom interaction states, and dynamic dark mode toggles.
+* **Orchestration Layer:** Client-side architecture built for low-latency canvas renderings on school smartboard browsers without external server overhead.
+* **Data Flow:** Dynamic tracking system designed for auto-reading board context, locking structural records, and exporting formatted local outputs.
+
+---
+
+## 🧠 AI Native Engineering Process
+
+SmartSign was developed utilizing advanced rapid prototyping workflows with Claude. The development process focused heavily on optimizing responsive layout nodes for heavy canvas displays, building security constraints like local row locks directly on the front-end, and designing a frictionless, real-world utility out of manual school administrative friction.                                                                                     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 📁 FILES IN THIS FOLDER:
